@@ -49,7 +49,7 @@ $arquivo_xml = simplexml_load_file('atividades.xml');
     ?>
 </table>
 <div id="register-link" class="btn">
-    <a href="index.php" class="btn btn-lg btn-primary btn-block">Listar atividades</a>
+    <a href="index.php" class="btn btn-lg btn-primary btn-block">Registrar novas atividades</a>
 </div>
 <br>
 </body>
